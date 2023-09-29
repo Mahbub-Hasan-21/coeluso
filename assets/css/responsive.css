@@ -1,0 +1,200 @@
+@media (min-width: 1200px) and (max-width: 1450px) {
+.feature-box {top: 20%;left: 20%;}
+.feature-box .feature-img img {width: 100%;}
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+.feature-box {top: 26%;left: 16%;}
+.feature-box .feature-img img {width: 100%;}
+.feature-box .feature-img img:hover {transform: scale(1.0);}  
+}
+
+@media (max-width: 1025px) {
+.feature-box {top: 26%;left: 10%;}
+.feature-box .feature-img img {width: 100%;}
+.feature-box .feature-img img:hover {transform: scale(1.0);}
+.footer-link ul li a {font-size: 14px;}
+.footer-copy p {font-size: 11px;}
+.footer-section {padding: 20px 0px;}
+}
+
+@media (min-width: 770px) and (max-width: 991px) {
+.download-section .download-box img {width: 100%;}
+.offset-1 {margin-left: 0;}
+.navbar-nav .nav-link {font-size: 19px;}
+.title-section {padding-top: 160px;padding-bottom: 100px;}
+.title-section h1 {font-size: 35px;}
+.title-section p {font-size: 14px;line-height: 50px;}
+.title-section a {font-size: 16px;margin: 30px 0px;}
+.headphone img:hover {transform: scale(1);}
+.feature-content h1 {font-size: 33px;}
+.feature-content p {font-size: 13px;line-height: 25px;margin: 15px 0px;}
+.feature-content a {font-size: 15px;margin: 10px 0px;}
+.feature-section-02 h1 {font-size: 34px;margin-bottom: 50px;}
+.fa-solid {font-size: 30px;}
+.feature-section-content h4 {margin: 10px 0px;font-size: 18px;}
+.feature-section-content p {line-height: 25px;font-size: 14px;}
+.feature-box {position: absolute;top: 22%;left: 26%;}
+.feature-box .feature-img img {width: 63%;}
+.feature-section-02 {padding: 50px 0px 0px 0px;}
+.item h2 {font-size: 17px;padding: 0px 20px;}
+.testimonial-section {padding: 20px 0px;}
+.download-section {padding: 50px 0px;}
+.download-section p {margin: 14px 0px;padding: 0px;line-height: 28px;font-size: 14px;}
+.download-section a {font-size: 16px;padding: 10px 30px;margin: 30px 0px;}
+.footer-section {padding: 20px 0px;}
+.footer-link ul {padding: 0;display: flex;}
+.footer-link ul li a {font-size: 18px;}
+.footer-copy p {font-size: 15px;}
+.footer-flex{display: flex;align-items: center;}
+}
+
+@media (max-width: 769px) {
+.download-section .download-box img {width: 100%;}
+.offset-1 {margin-left: 0;}
+.navbar-nav .nav-link {font-size: 19px;}
+.title-section {padding-top: 160px;padding-bottom: 100px;}
+.title-section h1 {font-size: 35px;}
+.title-section p {font-size: 14px;line-height: 50px;}
+.title-section a {font-size: 16px;margin: 30px 0px;}
+.headphone img:hover {transform: scale(1);}
+.feature-content h1 {font-size: 33px;}
+.feature-content p {font-size: 13px;line-height: 25px;margin: 15px 0px;}
+.feature-content a {font-size: 15px;margin: 10px 0px;}
+.feature-section-02 h1 {font-size: 34px;margin-bottom: 50px;}
+.fa-solid {font-size: 30px;}
+.feature-section-content h4 {margin: 10px 0px;font-size: 18px;}
+.feature-section-content p {line-height: 25px;font-size: 14px;}
+.feature-box {position: absolute;top: 22%;left: 26%;}
+.feature-box .feature-img img {width: 63%;}
+.feature-section-02 {padding: 50px 0px 0px 0px;}
+.item h2 {font-size: 17px;padding: 0px 20px;}
+.testimonial-section {padding: 20px 0px;}
+.download-section {padding: 50px 0px;}
+.download-section p {margin: 14px 0px;padding: 0px;line-height: 28px;font-size: 14px;}
+.download-section a {font-size: 16px;padding: 10px 30px;margin: 30px 0px;}
+.footer-section {padding: 20px 0px;}
+.footer-link ul {padding: 0;display: flex;}
+.footer-link ul li a {font-size: 18px;}
+.footer-copy p {font-size: 15px;}
+.footer-flex{display: flex;align-items: center;}
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+.download-section .download-box img {width: 100%;}
+.navbar-nav .nav-link {font-size: 18px;}
+.title-section {padding-top: 150px;padding-bottom: 80px;}
+.title-section h1 {font-size: 26px;}
+.title-section p {font-size: 14px;line-height: 30px;margin: 10px 0px;}
+.title-section a {font-size: 14px;}
+.screen-icon img:hover {transform: scale(0.9);}
+.screen-icon {margin: 20px 0px;text-align: center;}
+.screen-section {padding-bottom: 0px;}
+.feature-content{margin: 25px 0px;}
+.screen-icon img {width: 80%;}
+.feature-content h1 {font-size: 26px;}
+.feature-content p {font-size: 12px;line-height: 23px;}
+.feature-content a {font-size: 14px;padding: 10px 25px;margin: 12px 0px;}
+.feature-section-02 h1 {font-size: 27px;margin-bottom: 320px;}
+.feature-box {top: 12%;left: 30%;}
+.feature-box .feature-img img {width: 60%;}
+.fa-solid {font-size: 25px;}
+.feature-section-content h4 {margin: 10px 0px;font-size: 18px;}
+.feature-section-content {padding: 10px 15px;margin: 15px 0px;}
+.feature-section-content p {line-height: 22px;font-size: 12px;}
+.feature-section-02 {padding: 50px 0px 0px 0px;}
+.feature-perspective {padding: 15px 0px;}
+.device{padding: 0px 85px;margin-bottom: 40px;}
+.feature-perspective-box{margin: 25px 0px;}
+.testimonial-section {padding: 0px;}
+.item {margin: 30px 0px;}
+.item h2 {font-size: 12px;padding: 0px;line-height: 20px;}
+.item .user-box img {width: 24px;height: 22px;}
+.item .user-box p {padding: 0px 10px;line-height: 20px;font-size: 10px;}
+.owl-theme .owl-nav.disabled+.owl-dots {margin-top: 0px;}
+.download-section p {margin: 18px 0px;padding: 0px;line-height: 22px;font-size: 12px;}
+.download-section h4 {font-size: 24px;}
+.download-section {padding: 50px 0px;}
+.download-section a {font-size: 14px;padding: 10px 20px;}
+.download-btn{margin-top: 15px;}
+.footer-copy p {font-size: 14px;margin-right: 10px;}
+.footer-link ul {padding: 0;display: inline;}
+.footer-link ul li a {font-size: 15px;}
+.footer-section {padding: 20px 0px;text-align: center;}
+.footer-copy{margin-top: 10px;}
+}
+
+@media (max-width: 574px) {
+.download-section .download-box img {width: 100%;}
+.navbar-nav .nav-link {font-size: 18px;}
+.title-section {padding-top: 150px;padding-bottom: 80px;}
+.title-section h1 {font-size: 26px;}
+.title-section p {font-size: 14px;line-height: 30px;margin: 10px 0px;}
+.title-section a {font-size: 14px;}
+.screen-icon img:hover {transform: scale(0.9);}
+.screen-icon {margin: 20px 0px;text-align: center;}
+.screen-section {padding-bottom: 0px;}
+.feature-content{margin: 25px 0px;}
+.screen-icon img {width: 80%;}
+.feature-content h1 {font-size: 26px;}
+.feature-content p {font-size: 12px;line-height: 23px;}
+.feature-content a {font-size: 14px;padding: 10px 25px;margin: 12px 0px;}
+.feature-section-02 h1 {font-size: 27px;margin-bottom: 440px;}
+.feature-box {top: 12%;left: 10%;}
+.feature-box .feature-img img {width: 90%;}
+.fa-solid {font-size: 25px;}
+.feature-section-content h4 {margin: 10px 0px;font-size: 18px;}
+.feature-section-content {padding: 10px 15px;margin: 15px 0px;}
+.feature-section-content p {line-height: 22px;font-size: 12px;}
+.feature-section-02 {padding: 50px 0px 0px 0px;}
+.feature-perspective {padding: 0px;}
+.feature-perspective-box{margin: 25px 0px;}
+.testimonial-section {padding: 0px;}
+.item {margin: 25px 0px;}
+.item h2 {font-size: 12px;padding: 0px;line-height: 20px;}
+.item .user-box img {width: 24px;height: 22px;}
+.item .user-box p {padding: 0px 10px;line-height: 20px;font-size: 10px;}
+.owl-theme .owl-nav.disabled+.owl-dots {margin-top: 0px;}
+.download-section p {margin: 18px 0px;padding: 0px;line-height: 22px;font-size: 12px;}
+.download-section h4 {font-size: 24px;}
+.download-section {padding: 50px 0px;}
+.download-section a {font-size: 14px;padding: 10px 20px;}
+.download-btn{margin-top: 15px;}
+.footer-copy p {font-size: 14px;margin-right: 10px;}
+.footer-link ul {padding: 0;display: inline;}
+.footer-link ul li a {font-size: 15px;}
+.footer-section {padding: 20px 0px;text-align: center;}
+.footer-copy{margin-top: 10px;}
+}
+
+@media (max-width: 516px) {
+.feature-section-02 h1 {font-size: 27px;margin-bottom: 420px;}
+}
+
+@media (max-width: 426px) {
+.feature-section-02 h1 {font-size: 27px;margin-bottom: 320px;}
+.footer-copy p {font-size: 14px;margin-right: 10px;}
+.footer-link ul li a {font-size: 15px;}
+.footer-section {padding: 20px 0px;text-align: center;}
+}
+
+@media (max-width: 376px) {
+.feature-content{margin: 20px 0px;}
+.feature-content h1 {font-size: 27px;}
+.feature-content p {font-size: 12px;line-height: 22px;}
+.feature-section-02 h1 {font-size: 27px;margin-bottom: 300px;}
+.download-section h4 {font-size: 23px;}
+.download-section p {margin: 18px 0px;padding: 0px;line-height: 25px;font-size: 12px;}
+.footer-copy p {font-size: 12px;margin-right: 10px;}
+.footer-link ul li a {font-size: 14px;}
+}
+
+@media (min-width: 321px) and (max-width: 340px) {
+.footer-copy p {font-size: 11px;margin-right: 10px;}
+.footer-link ul li a {font-size: 12px;}
+}
+
+@media (max-width: 320px) {
+.footer-copy p {font-size: 11px;margin-right: 10px;}
+.footer-link ul li a {font-size: 12px;}
+}
